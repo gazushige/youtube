@@ -1,11 +1,17 @@
 # YouTubeダウンローダー
 
+YouTube動画をダウンロードする簡易的なpythonプログラムです。
+
 ## pythonソースコード
 
 動作確認
+
 python v3.9.7
+
 pyinstaller v4.7
+
 pytube 11.0.1
+
 Windows10
 
 ## windows用.exeファイル
